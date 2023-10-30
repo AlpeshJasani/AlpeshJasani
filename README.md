@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on [Amazon clone](xyz)
 
-- 👨‍💻 All of my projects are available at [xyz](xyz)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AlpeshJasani/)
 
 - 📝 I regularly write articles on [xyz](xyz)
 
 - 📫 How to reach me **alpeshjasani777@gmail.com**
 
-- 📄 Know about my experiences [xyz](xyz)
+- 📄 Know about my experiences [Linked In](https://www.linkedin.com/in/alpesh-jasani-a16b64220/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
