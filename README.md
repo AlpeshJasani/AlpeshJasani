@@ -22,8 +22,8 @@
 ## 🤝 Connect Here
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alpesh-jasani-a16b64220/)
 [![Twittwer](https://skillicons.dev/icons?i=twitter)](https://twitter.com/AlpeshJasani)
-<!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xyz0011)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://javascript002.hashnode.dev/) -->
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alpeshjasani777)
+<!--[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://javascript002.hashnode.dev/) -->
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=alpeshjasani&theme=rose_pine&show_icons=true&rank_icon=github)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alpeshjasani&theme=rose_pine)](https://git.io/streak-stats)
